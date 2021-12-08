@@ -1,5 +1,7 @@
 import keyboard
 
+print("Starting progarm")
+
 rk = keyboard.record(until="escape")
 
 keyArr = []
